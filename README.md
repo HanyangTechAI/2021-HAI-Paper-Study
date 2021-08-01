@@ -5,7 +5,7 @@
 
 |Date|Title|Presenter|Links|
 |:--:|:--:|:--:|:--:|
-|07/25|Attention Is All You Need|김성환|[[Paper](https://arxiv.org/abs/1706.03762)] [[Review](./Summer/20200725-Attention-Is-All-You-Need.pdf)]|
+|07/25|Attention Is All You Need|김성환|[[Paper](https://arxiv.org/abs/1706.03762)] [[Review](./Summer/20210725-Attention-Is-All-You-Need.pdf)]|
 |08/01|Mastering the game of Go without human knowledge|박준영|[[Paper](https://www.nature.com/articles/nature24270)]|
 |08/08|TBA|김수연|TBA|
 |08/15|TBA|김찬우|TBA|
