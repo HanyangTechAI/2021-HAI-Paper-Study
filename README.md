@@ -1,4 +1,6 @@
 # 2021 HAI Paper Study
+<img src="Media/logo.png" width=256 height=256 />  
+
 2021년 HAI에서 진행된 논문 리딩 스터디 저장소입니다.
 
 ## Summer
