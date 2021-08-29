@@ -12,5 +12,5 @@
 |08/08|Convolutional Neural Network for Sentence Classification|김수연|[[Paper](https://arxiv.org/pdf/1408.5882.pdf)] [[Review](https://github.com/HanyangTechAI/2021-HAI-Paper-Study/blob/main/Summer/20210808-Convolutional_Neural_Network_for_Sentence_Classification.pdf)]|
 |08/15|The PageBank Citation Ranking: Bringing Order to the Web|김찬우|[[Paper](http://ilpubs.stanford.edu:8090/422/)] [[Review](https://github.com/HanyangTechAI/2021-HAI-Paper-Study/blob/main/Summer/20210815-The_PageRank_Citation_Ranking_Bringing_Order_to_the_Web.pdf)]|
 |08/22|XGBoost: A Scaleable Tree Boosting System|황예준|[[Paper](https://arxiv.org/abs/1603.02754)] [[Review](https://github.com/HanyangTechAI/2021-HAI-Paper-Study/blob/main/Summer/20210822-XGBoost_A_Scaleable_Tree_Boosting_System.pdf)]|
-|08/29|You Only Look Once: Unified, Real-Time Object Detection|김창진|[[Paper](https://arxiv.org/abs/1506.02640)]|
+|08/29|You Only Look Once: Unified, Real-Time Object Detection|김창진|[[Paper](https://arxiv.org/abs/1506.02640)] [[Review](https://github.com/HanyangTechAI/2021-HAI-Paper-Study/blob/main/Summer/20210829_You_Only_Look_Once_Unified_Real_Time_Object_Detection.pdf)]|
 |09/05|Human-level control through deep reinforcement learning|남도현|[[Paper](https://www.nature.com/articles/nature14236)]|
